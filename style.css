@@ -58,6 +58,10 @@ button:hover {
   margin: 0 auto 0;
 }
 
+.main__headtitle_novisible {
+  display: none;
+}
+
 .new-task__input {
   width: 56%;
   display: inline-block;
