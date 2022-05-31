@@ -65,7 +65,7 @@ button:hover {
 .new-task__input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .new-task__wrapper {
@@ -135,7 +135,7 @@ button:hover {
 .list__item__label {
   box-sizing: border-box;
   font-size: 18px;
-  width: 300px
+  width: 300px;
 }
 
 .list__item__delete__img {
@@ -156,12 +156,12 @@ button:hover {
 
 /* Edit Task */
 .list__item__input {
-  display: none
+  display: none;
 }
 
 .list__item_edited .list__item__input {
   display: inline-block;
-  width: 300px
+  width: 300px;
 }
 
 .list__item_edited label {
