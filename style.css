@@ -15,7 +15,9 @@ button {
   outline: none;
 }
 
-button {
+.new-task__button,
+.list__item__edit,
+.list__item__delete {
   background: none;
   border: 0px;
   color: #888;
@@ -25,7 +27,9 @@ button {
   cursor: pointer;
 }
 
-button:hover {
+.new-task__button:hover,
+.list__item__edit:hover,
+.list__item__delete:hover {
   color: #3a3a3a;
 }
 
